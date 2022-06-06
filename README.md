@@ -12,6 +12,8 @@ Note:- There is still some work to do for nighlty builds
       ```bash
       ./Godot-*.AppImage
       ```
+# Request
+If your system have some other ARCH then do open an issue for your ARCH.
 
-#Issues
+# Issues
   If any issues faced, please list [here](https://github.com/stupid-kid-af/Godot-AppImage/issues/new)
