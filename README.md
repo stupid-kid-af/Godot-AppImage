@@ -3,7 +3,7 @@ Maintaining godot appimages unofficially
 Note:- There is still some work to do for nighlty builds
 
 # Running
-  1. Download the lastest AppImage from release section
+  1. Download the lastest AppImage from [release section](https://github.com/stupid-kid-af/Godot-AppImage/releases)
   2. Make it executable 
       ```bash
       chmod a+x Godot-*.AppImage
