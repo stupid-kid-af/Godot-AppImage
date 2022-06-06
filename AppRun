@@ -1,0 +1,5 @@
+#!/bin/sh
+
+HERE="$(dirname "$(readlink -f "${0}")")"
+EXEC="${HERE}/usr/bin/Godot_v3.4.4-stable_mono_x11.64"
+exec "${EXEC}"
